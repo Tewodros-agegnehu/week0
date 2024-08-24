@@ -1,0 +1,1 @@
+This project involves the analysis of environmental data to uncover significant trends and insights that inform strategic decisions for solar investments. The primary goal is to identify regions with high potential for solar installations that align with the company’s sustainability objectives and improve operational efficiency.
